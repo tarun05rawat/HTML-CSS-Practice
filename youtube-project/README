@@ -1,0 +1,44 @@
+# YouTube Landing Page Clone
+
+This project is a recreation of the YouTube landing page using HTML and CSS, styled with Tailwind CSS. The goal is to replicate the layout and design of the YouTube homepage as closely as possible, providing a responsive and visually appealing user interface.
+
+## Features
+
+- Responsive design
+- Navigation bar with logo and search functionality
+- Video thumbnails with titles and descriptions
+- Sidebar with various categories
+- Footer with additional links
+
+## Technologies Used
+
+- HTML
+- CSS
+- Tailwind CSS
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username/YouTube-Landing-Page-Clone.git
+   ```
+2. Navigate to the project directory
+   ```sh
+   cd YouTube-Landing-Page-Clone
+   ```
+3. Install Tailwind CSS
+   ```sh
+   npm install tailwindcss
+   ```
+
+### Usage
+
+1. Compile Tailwind CSS
+   ```sh
+   npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+   ```
+2. Open `index.html` in your browser to see the YouTube landing page clone.
